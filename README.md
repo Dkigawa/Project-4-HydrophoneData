@@ -55,7 +55,10 @@ The depth for the shelf station is 80m below sea level, whereas the Offshore loc
 #### Wenz Curve [2]
 ![](https://github.com/Dkigawa/Project-4-HydrophoneData/blob/master/Wenz%20Curve.png)
 
-
+## part 2 analysis:
+#### Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve?
+For the marine mammal vocalization, creating a series of horizontal stacked lines has a frequncy range from 1000Hz to 5000Hz, reaching somewhat higher but becoming much weaker reading. From the data there was no reliably measurable max frequency for the Airgun, going high enough that thermal noise became relevent. By far the smallest frequency range was with measuring the Earthquake, measurements only just reaching 100 Hz. It is important to not that the spectrum level for these measurements vary vastly. The marine mammal is well below 72 dB lasting for about 4 seconds, while the aurgun has around 120 dB but lasting less than a quarter of a second. Lastly while the bandwith for the earthquake is low, it still maxes out on the spectrum level lasting for a prolonged amount of time. 
+Looking at the Wenz curve the marine life starting at 1000Hz and slowing fading as it gets higher falls between the limits of the Wenz curve, explaining why the sound seems to fade at higher frequencies as it crosses the top limit of prevailing noise. The Airgun does not seem to fall within the Wenz curve, since it reaches frequencies higher than 5000Hz and maintains a high spectum level. This is due to the effect of the airgun, it is strong focused sound that can still be distinguished through the dominant background sonds. The earthquake does follow the trend of the dotted dash line at the top left of the graph, showing that it can still reah a higher spectrum level than most sounds. 
 
 # References:
 [1] Shima Abadi. In Class Lecture
