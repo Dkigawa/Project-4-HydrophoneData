@@ -1,6 +1,6 @@
 # Project-4-HydrophoneData
-
-Links to stuff
+Link to CODE: https://raw.githubusercontent.com/Dkigawa/Project-4-HydrophoneData/master/Project%204%20Hydrophone%20Data.ipynb
+Link to repository: https://github.com/Dkigawa/Project-4-HydrophoneData
 
 # Introduction:
 The goal of project 4 was to work with and understand the uses and applications of Hydrophone data. The data was sourced from the Ocean Obervatories Initiative (OOI) website which provides select an instrument and access the data they have collected from various locations. Part 1's task was to analyze how the weather could effect underwater noise, to do this we compared two statations at during different weather situations, comparing the Oregon Shelf site and the Oregon Offshore site. In part 2 the task was to plot spectograms of specific sounds captured by different hydrophones; specifically an air gun going off, marine mammal vocalization, and a earthquake or volcanic eruption. Then compare the bandwidths from the specograms with the Wenz Curve. 
