@@ -41,17 +41,21 @@ The depth for the shelf station is 80m below sea level, whereas the Offshore loc
 
 # Part 2)
 
+#### Large range and Zoomed in version of possible marine mammal vocalization. Oregon Slope Base Seafloor, 2017/10/06
 ![](https://github.com/Dkigawa/Project-4-HydrophoneData/blob/master/MMSpectogram%20Big.png)
-
 ![](https://github.com/Dkigawa/Project-4-HydrophoneData/blob/master/MMSpectogram%20Zoomed.png)
 
+#### Large range and Zoomed in version of air gun firing. Axial Base Seafloor, 2019/08/01  
 ![](https://github.com/Dkigawa/Project-4-HydrophoneData/blob/master/Airgun%20Spectogram%20Big.png)
-
 ![](https://github.com/Dkigawa/Project-4-HydrophoneData/blob/master/Airgun%20Spectogram%20Zoomed.png)
 
+#### 6.2 Earthquake off the coast of Oregon: 2018/08/22
 ![](https://github.com/Dkigawa/Project-4-HydrophoneData/blob/master/Earthquake%20Spectogram.png)
 
+#### Wenz Curve [2]
 ![](https://github.com/Dkigawa/Project-4-HydrophoneData/blob/master/Wenz%20Curve.png)
+
+
 
 # References:
 [1] Shima Abadi. In Class Lecture
